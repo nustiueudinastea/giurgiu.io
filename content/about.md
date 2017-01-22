@@ -7,4 +7,4 @@ title = "about"
 
 ## About me
 
-This is my statically generated website
+...
