@@ -1,4 +1,4 @@
-baseurl = "http://giurgiu.io/"
+baseurl = "https://giurgiu.io/"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
